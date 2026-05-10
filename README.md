@@ -29,18 +29,12 @@
 **Cloud & DevOps**  
 [![My Skills](https://skillicons.dev/icons?i=vercel,github,githubactions)](https://skillicons.dev)
 
-
-### Connect
-
-🌐 [Portfolio](https://j0hnc0d3s.github.io/portfolio) · 🏢 [3urek4](https://3urek4.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/josiah-john-green/) · 📩 josiahjohngreen@gmail.com
-
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j0hnc0d3s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnc0d3s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnc0d3s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+### Connect
+
+🌐 [Portfolio](https://j0hnc0d3s.github.io/portfolio) · 🏢 [3urek4](https://3urek4.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/josiah-john-green/) · 📩 josiahjohngreen@gmail.com
