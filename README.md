@@ -1,6 +1,13 @@
 <h1 align="center">Hey, I'm Josiah-John 👋🏾</h1>
-<h4 align="center">Software Engineer · Founder of <a href="https://3urek4.vercel.app">3urek4</a> ·  Building from Kingston, Jamaica 🇯🇲</h4>
-<h5 align="center"><a href="https://www.linkedin.com/in/josiah-john-green/">LinkedIn</a> · <a href="https://j0hnc0d3s.github.io/portfolio">Portfolio</a> · john@3urek4.com </h5>
+<p align="center">
+  <em>This little corner of the internet is where I tell the world what I've been building.</em>
+</p>
+
+<p align="center">
+  <a href="https://j0hnc0d3s.github.io/portfolio"><img src="https://img.shields.io/badge/Live_Site-View_Portfolio-3B82F6?style=for-the-badge&logo=react&logoColor=white" alt="Live Site" /></a>
+  <a href="https://3urek4.vercel.app"><img src="https://img.shields.io/badge/3urek4-Studio-1F2937?style=for-the-badge" alt="3urek4" /></a>
+  <a href="https://www.linkedin.com/in/josiah-john-green/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
