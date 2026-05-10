@@ -12,14 +12,35 @@
 - 🧭 Architecture-minded: ISAQB Certified Professional for Software Architecture (CPSA-F)
 - 🐢 Fun fact: I love reptiles and amphibians
 
-### Tech I Work With
+### 🛠️ Tech I Work With
 
-**Languages:** JavaScript · TypeScript · Python · Java · SQL  
-**Frontend:** React · React Native · Vue.js · Vite · Tailwind CSS  
-**Backend:** Node.js · Express · Flask · REST APIs  
-**Databases:** PostgreSQL · MySQL · Firebase / Firestore  
-**Cloud / DevOps:** Vercel · Railway · Firebase · GitHub Actions
+**Languages**  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java)](https://skillicons.dev)
+
+**Frontend**  
+[![My Skills](https://skillicons.dev/icons?i=react,vue,vite,tailwind,html,css)](https://skillicons.dev)
+
+**Backend**  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)](https://skillicons.dev)
+
+**Databases**  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,firebase)](https://skillicons.dev)
+
+**Cloud & DevOps**  
+[![My Skills](https://skillicons.dev/icons?i=vercel,github,githubactions)](https://skillicons.dev)
+
 
 ### Connect
 
 🌐 [Portfolio](https://j0hnc0d3s.github.io/portfolio) · 🏢 [3urek4](https://3urek4.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/josiah-john-green/) · 📩 josiahjohngreen@gmail.com
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j0hnc0d3s&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0hnc0d3s&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnc0d3s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
