@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Josiah-John 👋🏾</h1>
-<h4 align="center">Software Engineer · Founder of <a href="https://3urek4.vercel.app">3urek4</a> · Building from Kingston, Jamaica 🇯🇲</h4>
+<h4 align="center">Software Engineer · Founder of <a href="https://3urek4.vercel.app">3urek4</a> ·  Building from Kingston, Jamaica 🇯🇲</h4>
+<h5 align="center">[LinkedIn](https://www.linkedin.com/in/josiah-john-green/) · [Portfolio](https://j0hnc0d3s.github.io/portfolio) · josiahjohngreen@gmail.com </h5>
 
 ---
 
@@ -34,7 +35,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=j0hnc0d3s&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-### Connect
-
-🌐 [Portfolio](https://j0hnc0d3s.github.io/portfolio) · 🏢 [3urek4](https://3urek4.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/josiah-john-green/) · 📩 josiahjohngreen@gmail.com
